@@ -8,5 +8,5 @@
 - 📫 How to reach me: **miguel.cam.mx@gmail.com**
 - 😄 Pronouns: Mike 😎
 
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iammiguelmx)](https://github.com/anuraghazra/github-readme-stats)
 
