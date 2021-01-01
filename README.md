@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-
-- 🔭 I’m currently working at [SOMA Tecnologías y Medios de PAGO. ✨](http://www.somatecnologia.com.mx/) 
 - 🌱 I’m currently learning frontend framework. 
 - 👯 I’m looking to collaborate on projects related to the financial sector.
 - 💬 Ask me about CI/CD, management, Docker, Java and Web servers.
