@@ -10,11 +10,15 @@
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
+#### 🔭 Latest releases I've contributed to
+{{range recentReleases 10}}
+- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
+{{- end}}
 
 #### 📜 My recent blog posts
 {{range rss "https://.../posts/index.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}} 
+{{- end}}
 
 #### 📓 Gists I wrote
 {{range gists 5}}
