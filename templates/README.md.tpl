@@ -14,7 +14,7 @@
 #### 📜 My recent blog posts
 {{range rss "https://.../posts/index.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
+{{- end}} 
 
 #### 📓 Gists I wrote
 {{range gists 5}}
