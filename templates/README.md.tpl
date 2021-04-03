@@ -15,10 +15,6 @@
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
-#### 📜 My recent blog posts
-{{range rss "https://.../posts/index.xml" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
 
 #### 📓 Gists I wrote
 {{range gists 5}}
@@ -41,8 +37,7 @@ Say Hello, I don't bite!
 
 #### 📫 How to reach me
 
-- Twitter: https://twitter.com/...
-- Fediverse: https://mastodon.social/@...
-- Blog: https://...
+- Twitter: https://twitter.com/elmiguelmx
+- Blog: https://iammiguelmx.glitch.me/?fbclid=IwAR1W7ljHrUKi_CL7Xvdyjo11qx1ZdEtAbuTrIHG8hsSEvgj7_cNEzFA354A
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
