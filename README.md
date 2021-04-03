@@ -29,18 +29,6 @@
 #### 🔭 Latest releases I've contributed to
 
 
-
-#### 📓 Gists I wrote
-
-- [](https://gist.github.com/dad8d064743f9bce60ba5bce50eab1cb) (1 year ago)
-- [](https://gist.github.com/952e2f92d16843e77c6e9e83e82c6a9e) (1 year ago)
-- [](https://gist.github.com/ca7ebe3aa4c7fdf645262e4e2cb4c16f) (1 year ago)
-- [](https://gist.github.com/22519d387cf4724070287d6dd64a0889) (1 year ago)
-- [](https://gist.github.com/48c611aad9fc8a5848a99f05a408b1b8) (2 years ago)
-
-#### ❤️ These awesome people sponsor me (thank you!)
-
-
 #### 👯 Check out some of my recent followers
 
 - [PranamBhat](https://github.com/PranamBhat)
