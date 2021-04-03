@@ -15,17 +15,6 @@
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
-
-#### 📓 Gists I wrote
-{{range gists 5}}
-- [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-
-#### ❤️ These awesome people sponsor me (thank you!)
-{{range sponsors 5}}
-- [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-
 #### 👯 Check out some of my recent followers
 {{range followers 5}}
 - [{{.Login}}]({{.URL}})
