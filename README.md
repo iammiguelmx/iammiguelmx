@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [iammiguelmx/flask-template](https://github.com/iammiguelmx/flask-template) - Website with Flask in backend  (1 week ago)
-- [iammiguelmx/consumer-client](https://github.com/iammiguelmx/consumer-client) - Consumer cliente Web Service Converter Temp 🇲🇽 (1 week ago)
+- [iammiguelmx/flask-template](https://github.com/iammiguelmx/flask-template) - Website with Flask in backend  (2 weeks ago)
+- [iammiguelmx/consumer-client](https://github.com/iammiguelmx/consumer-client) - Consumer cliente Web Service Converter Temp 🇲🇽 (2 weeks ago)
 - [iammiguelmx/course-ror-cf](https://github.com/iammiguelmx/course-ror-cf) -  (1 month ago)
 - [iammiguelmx/market-api](https://github.com/iammiguelmx/market-api) - Api  (1 month ago)
 - [iammiguelmx/webapp-weather](https://github.com/iammiguelmx/webapp-weather) - Learning Flask 🚀 (3 months ago)
@@ -31,11 +31,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Ralicakossewa](https://github.com/Ralicakossewa)
 - [PranamBhat](https://github.com/PranamBhat)
 - [bikatti](https://github.com/bikatti)
 - [ESME1198](https://github.com/ESME1198)
 - [HikingCarrot7](https://github.com/HikingCarrot7)
-- [anagvillanueva](https://github.com/anagvillanueva)
 
 #### 💬 Feedback
 
