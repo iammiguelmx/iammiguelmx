@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [iammiguelmx/secret-santa](https://github.com/iammiguelmx/secret-santa) -  (2 weeks ago)
+- [iammiguelmx/secret-santa](https://github.com/iammiguelmx/secret-santa) -  (3 weeks ago)
 - [iammiguelmx/flask-template](https://github.com/iammiguelmx/flask-template) - Website with Flask in backend  (1 month ago)
 - [iammiguelmx/consumer-client](https://github.com/iammiguelmx/consumer-client) - Consumer cliente Web Service Converter Temp 🇲🇽 (1 month ago)
-- [iammiguelmx/course-ror-cf](https://github.com/iammiguelmx/course-ror-cf) -  (1 month ago)
+- [iammiguelmx/course-ror-cf](https://github.com/iammiguelmx/course-ror-cf) -  (2 months ago)
 - [iammiguelmx/market-api](https://github.com/iammiguelmx/market-api) - Api  (2 months ago)
 - [iammiguelmx/webapp-weather](https://github.com/iammiguelmx/webapp-weather) - Learning Flask 🚀 (4 months ago)
 - [iammiguelmx/chat-pyhonFlask](https://github.com/iammiguelmx/chat-pyhonFlask) - Simple chat in real time  ✨ (4 months ago)
@@ -31,11 +31,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [MManzicoder](https://github.com/MManzicoder)
+- [miguelcamachodevcastores](https://github.com/miguelcamachodevcastores)
 - [Ralicakossewa](https://github.com/Ralicakossewa)
 - [PranamBhat](https://github.com/PranamBhat)
 - [bikatti](https://github.com/bikatti)
-- [ESME1198](https://github.com/ESME1198)
-- [HikingCarrot7](https://github.com/HikingCarrot7)
 
 #### 💬 Feedback
 
