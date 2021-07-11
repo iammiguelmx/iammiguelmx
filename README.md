@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [iammiguelmx/demo-micronaut](https://github.com/iammiguelmx/demo-micronaut) - Micronaut Demo Application learning 😎 (1 week ago)
-- [iammiguelmx/flask-template](https://github.com/iammiguelmx/flask-template) - Website with Flask in backend  (1 week ago)
+- [iammiguelmx/demo-micronaut](https://github.com/iammiguelmx/demo-micronaut) - Micronaut Demo Application learning 😎 (2 weeks ago)
+- [iammiguelmx/flask-template](https://github.com/iammiguelmx/flask-template) - Website with Flask in backend  (2 weeks ago)
 - [iammiguelmx/secret-santa](https://github.com/iammiguelmx/secret-santa) -  (2 months ago)
-- [iammiguelmx/consumer-client](https://github.com/iammiguelmx/consumer-client) - Consumer cliente Web Service Converter Temp 🇲🇽 (2 months ago)
+- [iammiguelmx/consumer-client](https://github.com/iammiguelmx/consumer-client) - Consumer cliente Web Service Converter Temp 🇲🇽 (3 months ago)
 - [iammiguelmx/course-ror-cf](https://github.com/iammiguelmx/course-ror-cf) -  (3 months ago)
 - [iammiguelmx/market-api](https://github.com/iammiguelmx/market-api) - Api  (3 months ago)
 - [iammiguelmx/webapp-weather](https://github.com/iammiguelmx/webapp-weather) - Learning Flask 🚀 (5 months ago)
@@ -31,11 +31,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Novusvetus](https://github.com/Novusvetus)
 - [MManzicoder](https://github.com/MManzicoder)
 - [Ralicakossewa](https://github.com/Ralicakossewa)
 - [PranamBhat](https://github.com/PranamBhat)
 - [bikatti](https://github.com/bikatti)
-- [ESME1198](https://github.com/ESME1198)
 
 #### 💬 Feedback
 
