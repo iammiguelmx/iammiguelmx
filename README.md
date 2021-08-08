@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [iammiguelmx/skeleton-api-spring](https://github.com/iammiguelmx/skeleton-api-spring) - Base skeleton for faster build API Rest (1 week ago)
+- [iammiguelmx/skeleton-api-spring](https://github.com/iammiguelmx/skeleton-api-spring) - Base skeleton for faster build API Rest. Work in progress (3 days ago)
 - [iammiguelmx/demo-micronaut](https://github.com/iammiguelmx/demo-micronaut) - Micronaut Demo Application learning 😎 (1 month ago)
 - [iammiguelmx/flask-template](https://github.com/iammiguelmx/flask-template) - Website with Flask in backend  (1 month ago)
-- [iammiguelmx/secret-santa](https://github.com/iammiguelmx/secret-santa) -  (2 months ago)
+- [iammiguelmx/secret-santa](https://github.com/iammiguelmx/secret-santa) -  (3 months ago)
 - [iammiguelmx/consumer-client](https://github.com/iammiguelmx/consumer-client) - Consumer cliente Web Service Converter Temp 🇲🇽 (3 months ago)
 - [iammiguelmx/course-ror-cf](https://github.com/iammiguelmx/course-ror-cf) -  (4 months ago)
 - [iammiguelmx/market-api](https://github.com/iammiguelmx/market-api) - Api  (4 months ago)
@@ -15,7 +15,7 @@
 
 #### 🌱 My latest projects
 
-- [iammiguelmx/skeleton-api-spring](https://github.com/iammiguelmx/skeleton-api-spring) - Base skeleton for faster build API Rest
+- [iammiguelmx/skeleton-api-spring](https://github.com/iammiguelmx/skeleton-api-spring) - Base skeleton for faster build API Rest. Work in progress
 - [iammiguelmx/demo-micronaut](https://github.com/iammiguelmx/demo-micronaut) - Micronaut Demo Application learning 😎
 - [iammiguelmx/spring-logback](https://github.com/iammiguelmx/spring-logback) - Spring boot backlog save log for the app
 - [iammiguelmx/microservice-mensajeria](https://github.com/iammiguelmx/microservice-mensajeria) - Microservicio que cotiza mensajeria, se conecta con el Tarificador.jar para realizar dicho proceso.
