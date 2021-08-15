@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [iammiguelmx/skeleton-api-spring](https://github.com/iammiguelmx/skeleton-api-spring) - Base skeleton for faster build API Rest. Work in progress (3 days ago)
+- [iammiguelmx/skeleton-api-spring](https://github.com/iammiguelmx/skeleton-api-spring) - Base skeleton for faster build API Rest. Work in progress (1 week ago)
 - [iammiguelmx/demo-micronaut](https://github.com/iammiguelmx/demo-micronaut) - Micronaut Demo Application learning 😎 (1 month ago)
 - [iammiguelmx/flask-template](https://github.com/iammiguelmx/flask-template) - Website with Flask in backend  (1 month ago)
 - [iammiguelmx/secret-santa](https://github.com/iammiguelmx/secret-santa) -  (3 months ago)
-- [iammiguelmx/consumer-client](https://github.com/iammiguelmx/consumer-client) - Consumer cliente Web Service Converter Temp 🇲🇽 (3 months ago)
+- [iammiguelmx/consumer-client](https://github.com/iammiguelmx/consumer-client) - Consumer cliente Web Service Converter Temp 🇲🇽 (4 months ago)
 - [iammiguelmx/course-ror-cf](https://github.com/iammiguelmx/course-ror-cf) -  (4 months ago)
-- [iammiguelmx/market-api](https://github.com/iammiguelmx/market-api) - Api  (4 months ago)
+- [iammiguelmx/market-api](https://github.com/iammiguelmx/market-api) - Api  (5 months ago)
 - [iammiguelmx/webapp-weather](https://github.com/iammiguelmx/webapp-weather) - Learning Flask 🚀 (6 months ago)
 - [iammiguelmx/chat-pyhonFlask](https://github.com/iammiguelmx/chat-pyhonFlask) - Simple chat in real time  ✨ (7 months ago)
 - [iammiguelmx/laravel-fortify](https://github.com/iammiguelmx/laravel-fortify) -  (7 months ago)
@@ -31,11 +31,11 @@
 
 #### 👯 Check out some of my recent followers
 
-- [Novusvetus](https://github.com/Novusvetus)
 - [MManzicoder](https://github.com/MManzicoder)
 - [Ralicakossewa](https://github.com/Ralicakossewa)
 - [PranamBhat](https://github.com/PranamBhat)
 - [bikatti](https://github.com/bikatti)
+- [ESME1198](https://github.com/ESME1198)
 
 #### 💬 Feedback
 
