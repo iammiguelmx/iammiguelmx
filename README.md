@@ -2,19 +2,20 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [iammiguelmx/skeleton-api-spring](https://github.com/iammiguelmx/skeleton-api-spring) - Base skeleton for faster build API Rest. Work in progress (1 week ago)
+- [iammiguelmx/cli-java](https://github.com/iammiguelmx/cli-java) - JCommander for aplication java with args. ⚙️ (3 days ago)
+- [iammiguelmx/skeleton-api-spring](https://github.com/iammiguelmx/skeleton-api-spring) - Base skeleton for faster build API Rest. Work in progress (2 weeks ago)
 - [iammiguelmx/demo-micronaut](https://github.com/iammiguelmx/demo-micronaut) - Micronaut Demo Application learning 😎 (2 months ago)
 - [iammiguelmx/flask-template](https://github.com/iammiguelmx/flask-template) - Website with Flask in backend  (2 months ago)
 - [iammiguelmx/secret-santa](https://github.com/iammiguelmx/secret-santa) -  (4 months ago)
 - [iammiguelmx/consumer-client](https://github.com/iammiguelmx/consumer-client) - Consumer cliente Web Service Converter Temp 🇲🇽 (5 months ago)
 - [iammiguelmx/course-ror-cf](https://github.com/iammiguelmx/course-ror-cf) -  (5 months ago)
 - [iammiguelmx/market-api](https://github.com/iammiguelmx/market-api) - Api  (6 months ago)
-- [iammiguelmx/webapp-weather](https://github.com/iammiguelmx/webapp-weather) - Learning Flask 🚀 (7 months ago)
+- [iammiguelmx/webapp-weather](https://github.com/iammiguelmx/webapp-weather) - Learning Flask 🚀 (8 months ago)
 - [iammiguelmx/chat-pyhonFlask](https://github.com/iammiguelmx/chat-pyhonFlask) - Simple chat in real time  ✨ (8 months ago)
-- [iammiguelmx/laravel-fortify](https://github.com/iammiguelmx/laravel-fortify) -  (8 months ago)
 
 #### 🌱 My latest projects
 
+- [iammiguelmx/cli-java](https://github.com/iammiguelmx/cli-java) - JCommander for aplication java with args. ⚙️
 - [iammiguelmx/skeleton-api-spring](https://github.com/iammiguelmx/skeleton-api-spring) - Base skeleton for faster build API Rest. Work in progress
 - [iammiguelmx/demo-micronaut](https://github.com/iammiguelmx/demo-micronaut) - Micronaut Demo Application learning 😎
 - [iammiguelmx/spring-logback](https://github.com/iammiguelmx/spring-logback) - Spring boot backlog save log for the app
@@ -24,7 +25,6 @@
 - [iammiguelmx/consumer-client](https://github.com/iammiguelmx/consumer-client) - Consumer cliente Web Service Converter Temp 🇲🇽
 - [iammiguelmx/market-api](https://github.com/iammiguelmx/market-api) - Api 
 - [iammiguelmx/webapp-flask](https://github.com/iammiguelmx/webapp-flask) - 
-- [iammiguelmx/webapp-weather](https://github.com/iammiguelmx/webapp-weather) - Learning Flask 🚀
 
 #### 🔭 Latest releases I've contributed to
 
