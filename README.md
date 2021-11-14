@@ -7,9 +7,9 @@
 - [iammiguelmx/cli-java](https://github.com/iammiguelmx/cli-java) - JCommander for aplication java with args. ⚙️ (1 month ago)
 - [iammiguelmx/demo-micronaut](https://github.com/iammiguelmx/demo-micronaut) - Micronaut Demo Application learning 😎 (4 months ago)
 - [iammiguelmx/secret-santa](https://github.com/iammiguelmx/secret-santa) -  (6 months ago)
-- [iammiguelmx/consumer-client](https://github.com/iammiguelmx/consumer-client) - Consumer cliente Web Service Converter Temp 🇲🇽 (6 months ago)
+- [iammiguelmx/consumer-client](https://github.com/iammiguelmx/consumer-client) - Consumer cliente Web Service Converter Temp 🇲🇽 (7 months ago)
 - [iammiguelmx/course-ror-cf](https://github.com/iammiguelmx/course-ror-cf) -  (7 months ago)
-- [iammiguelmx/market-api](https://github.com/iammiguelmx/market-api) - Api  (7 months ago)
+- [iammiguelmx/market-api](https://github.com/iammiguelmx/market-api) - Api  (8 months ago)
 - [iammiguelmx/webapp-weather](https://github.com/iammiguelmx/webapp-weather) - Learning Flask 🚀 (9 months ago)
 - [iammiguelmx/chat-pyhonFlask](https://github.com/iammiguelmx/chat-pyhonFlask) - Simple chat in real time  ✨ (10 months ago)
 
@@ -31,11 +31,11 @@
 
 #### 👯 Check out some of my recent followers
 
-- [MManzicoder](https://github.com/MManzicoder)
 - [Ralicakossewa](https://github.com/Ralicakossewa)
 - [PranamBhat](https://github.com/PranamBhat)
 - [bikatti](https://github.com/bikatti)
 - [ESME1198](https://github.com/ESME1198)
+- [HikingCarrot7](https://github.com/HikingCarrot7)
 
 #### 💬 Feedback
 
