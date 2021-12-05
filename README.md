@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [iammiguelmx/flask-template](https://github.com/iammiguelmx/flask-template) - Website with Flask in backend  (1 month ago)
+- [iammiguelmx/flask-template](https://github.com/iammiguelmx/flask-template) - Website with Flask in backend  (2 months ago)
 - [iammiguelmx/skeleton-api-spring](https://github.com/iammiguelmx/skeleton-api-spring) - Base skeleton for faster build API Rest. Work in progress (2 months ago)
 - [iammiguelmx/cli-java](https://github.com/iammiguelmx/cli-java) - JCommander for aplication java with args. ⚙️ (2 months ago)
 - [iammiguelmx/demo-micronaut](https://github.com/iammiguelmx/demo-micronaut) - Micronaut Demo Application learning 😎 (5 months ago)
-- [iammiguelmx/secret-santa](https://github.com/iammiguelmx/secret-santa) -  (6 months ago)
+- [iammiguelmx/secret-santa](https://github.com/iammiguelmx/secret-santa) -  (7 months ago)
 - [iammiguelmx/consumer-client](https://github.com/iammiguelmx/consumer-client) - Consumer cliente Web Service Converter Temp 🇲🇽 (7 months ago)
 - [iammiguelmx/course-ror-cf](https://github.com/iammiguelmx/course-ror-cf) -  (8 months ago)
 - [iammiguelmx/market-api](https://github.com/iammiguelmx/market-api) - Api  (8 months ago)
 - [iammiguelmx/webapp-weather](https://github.com/iammiguelmx/webapp-weather) - Learning Flask 🚀 (10 months ago)
-- [iammiguelmx/chat-pyhonFlask](https://github.com/iammiguelmx/chat-pyhonFlask) - Simple chat in real time  ✨ (10 months ago)
+- [iammiguelmx/chat-pyhonFlask](https://github.com/iammiguelmx/chat-pyhonFlask) - Simple chat in real time  ✨ (11 months ago)
 
 #### 🌱 My latest projects
 
@@ -31,11 +31,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [pacomgh](https://github.com/pacomgh)
 - [Ralicakossewa](https://github.com/Ralicakossewa)
 - [PranamBhat](https://github.com/PranamBhat)
 - [bikatti](https://github.com/bikatti)
 - [ESME1198](https://github.com/ESME1198)
-- [HikingCarrot7](https://github.com/HikingCarrot7)
 
 #### 💬 Feedback
 
