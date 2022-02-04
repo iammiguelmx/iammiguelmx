@@ -1,3 +1,6 @@
+![Visitor Count](https://profile-counter.glitch.me/{iammiguelmx}/count.svg)
+
+
 ### Hi there 👋
 
 #### 👷 Check out what I'm currently working on
