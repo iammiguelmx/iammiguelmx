@@ -8,7 +8,7 @@
 - [iammiguelmx/demo-micronaut](https://github.com/iammiguelmx/demo-micronaut) - Micronaut Demo Application learning 😎 (7 months ago)
 - [iammiguelmx/secret-santa](https://github.com/iammiguelmx/secret-santa) -  (9 months ago)
 - [iammiguelmx/consumer-client](https://github.com/iammiguelmx/consumer-client) - Consumer cliente Web Service Converter Temp 🇲🇽 (10 months ago)
-- [iammiguelmx/course-ror-cf](https://github.com/iammiguelmx/course-ror-cf) -  (10 months ago)
+- [iammiguelmx/course-ror-cf](https://github.com/iammiguelmx/course-ror-cf) -  (11 months ago)
 - [iammiguelmx/market-api](https://github.com/iammiguelmx/market-api) - Api  (11 months ago)
 
 #### 🌱 My latest projects
@@ -29,11 +29,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [AYIDouble](https://github.com/AYIDouble)
 - [ColveraDeanda](https://github.com/ColveraDeanda)
 - [ActiveTek](https://github.com/ActiveTek)
 - [Isma001](https://github.com/Isma001)
 - [pacomgh](https://github.com/pacomgh)
-- [Ralicakossewa](https://github.com/Ralicakossewa)
 
 #### 💬 Feedback
 
