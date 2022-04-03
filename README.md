@@ -2,13 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [iammiguelmx/cli-java](https://github.com/iammiguelmx/cli-java) - JCommander for aplication java with args. ⚙️ (2 months ago)
-- [iammiguelmx/flask-template](https://github.com/iammiguelmx/flask-template) - Website with Flask in backend  (5 months ago)
+- [iammiguelmx/cli-java](https://github.com/iammiguelmx/cli-java) - JCommander for aplication java with args. ⚙️ (3 months ago)
+- [iammiguelmx/flask-template](https://github.com/iammiguelmx/flask-template) - Website with Flask in backend  (6 months ago)
 - [iammiguelmx/skeleton-api-spring](https://github.com/iammiguelmx/skeleton-api-spring) - Base skeleton for faster build API Rest. Work in progress (6 months ago)
 - [iammiguelmx/demo-micronaut](https://github.com/iammiguelmx/demo-micronaut) - Micronaut Demo Application learning 😎 (9 months ago)
-- [iammiguelmx/secret-santa](https://github.com/iammiguelmx/secret-santa) -  (10 months ago)
+- [iammiguelmx/secret-santa](https://github.com/iammiguelmx/secret-santa) -  (11 months ago)
 - [iammiguelmx/consumer-client](https://github.com/iammiguelmx/consumer-client) - Consumer cliente Web Service Converter Temp 🇲🇽 (11 months ago)
-- [iammiguelmx/course-ror-cf](https://github.com/iammiguelmx/course-ror-cf) -  (1 year ago)
 
 #### 🌱 My latest projects
 
