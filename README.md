@@ -2,7 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [iammiguelmx/microservices-config-store](https://github.com/iammiguelmx/microservices-config-store) - Microservices Config Server Store properties  (1 week ago)
+- [iammiguelmx/micronaut-basic](https://github.com/iammiguelmx/micronaut-basic) -  (4 days ago)
+- [iammiguelmx/microservices-config-store](https://github.com/iammiguelmx/microservices-config-store) - Microservices Config Server Store properties  (2 weeks ago)
 - [iammiguelmx/cli-java](https://github.com/iammiguelmx/cli-java) - JCommander for aplication java with args. ⚙️ (4 months ago)
 - [iammiguelmx/flask-template](https://github.com/iammiguelmx/flask-template) - Website with Flask in backend  (7 months ago)
 - [iammiguelmx/skeleton-api-spring](https://github.com/iammiguelmx/skeleton-api-spring) - Base skeleton for faster build API Rest. Work in progress (7 months ago)
@@ -10,6 +11,7 @@
 
 #### 🌱 My latest projects
 
+- [iammiguelmx/micronaut-basic](https://github.com/iammiguelmx/micronaut-basic) - 
 - [iammiguelmx/microservices-config-store](https://github.com/iammiguelmx/microservices-config-store) - Microservices Config Server Store properties 
 - [iammiguelmx/cli-java](https://github.com/iammiguelmx/cli-java) - JCommander for aplication java with args. ⚙️
 - [iammiguelmx/skeleton-api-spring](https://github.com/iammiguelmx/skeleton-api-spring) - Base skeleton for faster build API Rest. Work in progress
@@ -19,7 +21,6 @@
 - [iammiguelmx/config-server](https://github.com/iammiguelmx/config-server) - Servicio de administración de properties
 - [iammiguelmx/secret-santa](https://github.com/iammiguelmx/secret-santa) - 
 - [iammiguelmx/consumer-client](https://github.com/iammiguelmx/consumer-client) - Consumer cliente Web Service Converter Temp 🇲🇽
-- [iammiguelmx/market-api](https://github.com/iammiguelmx/market-api) - Api 
 
 #### 🔭 Latest releases I've contributed to
 
