@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [iammiguelmx/micronaut-basic](https://github.com/iammiguelmx/micronaut-basic) -  (2 weeks ago)
+- [iammiguelmx/micronaut-basic](https://github.com/iammiguelmx/micronaut-basic) -  (3 weeks ago)
 - [iammiguelmx/microservices-config-store](https://github.com/iammiguelmx/microservices-config-store) - Microservices Config Server Store properties  (1 month ago)
 - [iammiguelmx/cli-java](https://github.com/iammiguelmx/cli-java) - JCommander for aplication java with args. ⚙️ (5 months ago)
 - [iammiguelmx/flask-template](https://github.com/iammiguelmx/flask-template) - Website with Flask in backend  (8 months ago)
@@ -27,11 +27,11 @@
 
 #### 👯 Check out some of my recent followers
 
-- [blackhorse0330](https://github.com/blackhorse0330)
 - [JCSIVO](https://github.com/JCSIVO)
 - [anbgsl1110](https://github.com/anbgsl1110)
 - [AYIDouble](https://github.com/AYIDouble)
 - [ColveraDeanda](https://github.com/ColveraDeanda)
+- [ActiveTek](https://github.com/ActiveTek)
 
 #### 💬 Feedback
 
