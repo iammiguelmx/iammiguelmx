@@ -2,13 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [iammiguelmx/super-duper-garbanzo](https://github.com/iammiguelmx/super-duper-garbanzo) -  (2 days ago)
+- [iammiguelmx/super-duper-garbanzo](https://github.com/iammiguelmx/super-duper-garbanzo) -  (1 week ago)
 - [iammiguelmx/micronaut-basic](https://github.com/iammiguelmx/micronaut-basic) -  (1 month ago)
 - [iammiguelmx/microservices-config-store](https://github.com/iammiguelmx/microservices-config-store) - Microservices Config Server Store properties  (2 months ago)
 - [iammiguelmx/cli-java](https://github.com/iammiguelmx/cli-java) - JCommander for aplication java with args. ⚙️ (6 months ago)
 - [iammiguelmx/flask-template](https://github.com/iammiguelmx/flask-template) - Website with Flask in backend  (9 months ago)
 - [iammiguelmx/skeleton-api-spring](https://github.com/iammiguelmx/skeleton-api-spring) - Base skeleton for faster build API Rest. Work in progress (9 months ago)
-- [iammiguelmx/demo-micronaut](https://github.com/iammiguelmx/demo-micronaut) - Micronaut Demo Application learning 😎 (1 year ago)
 
 #### 🌱 My latest projects
 
