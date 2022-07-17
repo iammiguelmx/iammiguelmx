@@ -2,7 +2,6 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [iammiguelmx/super-duper-garbanzo](https://github.com/iammiguelmx/super-duper-garbanzo) -  (1 week ago)
 - [iammiguelmx/micronaut-basic](https://github.com/iammiguelmx/micronaut-basic) -  (1 month ago)
 - [iammiguelmx/microservices-config-store](https://github.com/iammiguelmx/microservices-config-store) - Microservices Config Server Store properties  (2 months ago)
 - [iammiguelmx/cli-java](https://github.com/iammiguelmx/cli-java) - JCommander for aplication java with args. ⚙️ (6 months ago)
@@ -11,7 +10,6 @@
 
 #### 🌱 My latest projects
 
-- [iammiguelmx/super-duper-garbanzo](https://github.com/iammiguelmx/super-duper-garbanzo) - 
 - [iammiguelmx/micronaut-basic](https://github.com/iammiguelmx/micronaut-basic) - 
 - [iammiguelmx/microservices-config-store](https://github.com/iammiguelmx/microservices-config-store) - Microservices Config Server Store properties 
 - [iammiguelmx/cli-java](https://github.com/iammiguelmx/cli-java) - JCommander for aplication java with args. ⚙️
@@ -21,17 +19,18 @@
 - [iammiguelmx/microservice-mensajeria](https://github.com/iammiguelmx/microservice-mensajeria) - Microservicio que cotiza mensajeria, se conecta con el Tarificador.jar para realizar dicho proceso.
 - [iammiguelmx/config-server](https://github.com/iammiguelmx/config-server) - Servicio de administración de properties
 - [iammiguelmx/secret-santa](https://github.com/iammiguelmx/secret-santa) - 
+- [iammiguelmx/consumer-client](https://github.com/iammiguelmx/consumer-client) - Consumer cliente Web Service Converter Temp 🇲🇽
 
 #### 🔭 Latest releases I've contributed to
 
 
 #### 👯 Check out some of my recent followers
 
+- [nihadenes](https://github.com/nihadenes)
 - [JCSIVO](https://github.com/JCSIVO)
 - [anbgsl1110](https://github.com/anbgsl1110)
 - [AYIDouble](https://github.com/AYIDouble)
 - [ColveraDeanda](https://github.com/ColveraDeanda)
-- [ActiveTek](https://github.com/ActiveTek)
 
 #### 💬 Feedback
 
