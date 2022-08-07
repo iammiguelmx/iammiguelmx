@@ -27,10 +27,10 @@
 #### 👯 Check out some of my recent followers
 
 - [alientechsoft](https://github.com/alientechsoft)
-- [nihadenes](https://github.com/nihadenes)
 - [JCSIVO](https://github.com/JCSIVO)
 - [anbgsl1110](https://github.com/anbgsl1110)
 - [AYIDouble](https://github.com/AYIDouble)
+- [ColveraDeanda](https://github.com/ColveraDeanda)
 
 #### 💬 Feedback
 
