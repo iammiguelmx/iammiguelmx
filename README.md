@@ -5,7 +5,6 @@
 - [iammiguelmx/micronaut-basic](https://github.com/iammiguelmx/micronaut-basic) -  (4 months ago)
 - [iammiguelmx/microservices-config-store](https://github.com/iammiguelmx/microservices-config-store) - Microservices Config Server Store properties  (5 months ago)
 - [iammiguelmx/cli-java](https://github.com/iammiguelmx/cli-java) - JCommander for aplication java with args. ⚙️ (9 months ago)
-- [iammiguelmx/flask-template](https://github.com/iammiguelmx/flask-template) - Website with Flask in backend  (1 year ago)
 
 #### 🌱 My latest projects
 
