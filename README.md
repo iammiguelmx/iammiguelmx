@@ -24,11 +24,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [angiegm](https://github.com/angiegm)
 - [mdhachem](https://github.com/mdhachem)
 - [alientechsoft](https://github.com/alientechsoft)
 - [JCSIVO](https://github.com/JCSIVO)
 - [anbgsl1110](https://github.com/anbgsl1110)
-- [AYIDouble](https://github.com/AYIDouble)
 
 #### 💬 Feedback
 
