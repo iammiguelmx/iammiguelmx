@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [iammiguelmx/micronaut-basic](https://github.com/iammiguelmx/micronaut-basic) -  (10 months ago)
+- [iammiguelmx/micronaut-basic](https://github.com/iammiguelmx/micronaut-basic) -  (11 months ago)
 - [iammiguelmx/microservices-config-store](https://github.com/iammiguelmx/microservices-config-store) - Microservices Config Server Store properties  (11 months ago)
 
 #### 🌱 My latest projects
