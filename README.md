@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [iammiguelmx/micronaut-basic](https://github.com/iammiguelmx/micronaut-basic) -  (11 months ago)
+- [iammiguelmx/micronaut-basic](https://github.com/iammiguelmx/micronaut-basic) -  (1 year ago)
 
 #### 🌱 My latest projects
 
