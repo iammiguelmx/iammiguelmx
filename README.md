@@ -21,11 +21,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [nickorzha](https://github.com/nickorzha)
+- [Sings168](https://github.com/Sings168)
 - [mhmdhoseinzade](https://github.com/mhmdhoseinzade)
 - [Shudogg](https://github.com/Shudogg)
 - [angiegm](https://github.com/angiegm)
-- [mdhachem](https://github.com/mdhachem)
-- [alientechsoft](https://github.com/alientechsoft)
 
 #### 💬 Feedback
 
